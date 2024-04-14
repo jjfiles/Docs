@@ -25,7 +25,7 @@ Sign into your Microsoft Account.
 
 #### Instance
 
-1. Select "Add Instance" in the top left.
+1. Select "Add Instance" in the top left of the Prism launcher.
 ![add instance](https://i.imgur.com/uvFJQvN.png)
 
 2. Select "Curse Forge" -> BigChadGuys Plus (Non Cobblemon!) -> BCG Plus NC 1.0.6 [release]. Select ok.
