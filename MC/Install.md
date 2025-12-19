@@ -71,3 +71,5 @@ Sign into your Microsoft Account.
 ![quest chapters](./images/quest_chapters.jpg)
 
 4. You can set a home teleport location by typing `/sethome` in game. Then at any point you may type `/home` to be transported home instantly.
+
+5. Lower end machines may have trouble running this many mods. Consider playing around in Settings > Video Settings. There are also a few shaderpacks included, both for beauty and performance. `PotatoShaders` and `MakeUp-UltraFast` can help performance substantially at the cost of some looks. Located under Settings > Video Settings > Iris > PotatoShaders_v1 or MakeUp-UltraFast-9.3.
