@@ -68,4 +68,6 @@ Sign into your Microsoft Account.
 
 3. There is a lot to this pack. I highly suggesting reading through all the quest lists. Hit the arrow on the left sidebar when viewing a set of quests to select different quest sections. These are mostly seperated by mod or dimension.
 
+![quest chapters](./images/quest_chapters.jpg)
+
 4. You can set a home teleport location by typing `/sethome` in game. Then at any point you may type `/home` to be transported home instantly.
