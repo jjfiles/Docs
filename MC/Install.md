@@ -4,7 +4,7 @@
 
 ### Download and Install
 
-Download and install Prism: [Prism Launcher](https://prismlauncher.org/)
+Download and install Prism: [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-Windows-MSVC-Setup-9.4.exe)
 
 ### Setup
 
